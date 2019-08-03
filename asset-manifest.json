@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chrisksportfolio/static/css/main.2cce8147.chunk.css",
+    "main.js": "/chrisksportfolio/static/js/main.911c42de.chunk.js",
+    "main.js.map": "/chrisksportfolio/static/js/main.911c42de.chunk.js.map",
+    "runtime~main.js": "/chrisksportfolio/static/js/runtime~main.5168095d.js",
+    "runtime~main.js.map": "/chrisksportfolio/static/js/runtime~main.5168095d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/chrisksportfolio/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/chrisksportfolio/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/chrisksportfolio/index.html",
+    "precache-manifest.f7ff26f97135bbc77a3b09d42ce589c9.js": "/chrisksportfolio/precache-manifest.f7ff26f97135bbc77a3b09d42ce589c9.js",
+    "service-worker.js": "/chrisksportfolio/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/chrisksportfolio/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/chrisksportfolio/static/media/logo.5d5d9eef.svg"
+  }
+}
